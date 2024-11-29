@@ -23,40 +23,22 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="girappe_webpage_pass4wallet">
+  <meta name="apple-mobile-web-app-title" content="webpage_pass4wallet">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Theme and colors -->
   <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fdfdf7">
   <meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#282727">
 
+  <meta name="background-color" media="(prefers-color-scheme: light)" content="#fdfdf7">
+  <meta name="background-color" media="(prefers-color-scheme: dark)"  content="#282727">
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>girappe_webpage_pass4wallet</title>
+  <title>Pass4Wallet</title>
   <link rel="manifest" href="manifest.json">
-
-  <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2421917630";
-  </script>
-  <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
 </head>
 <body>
-  <script>
-    window.addEventListener('load', function(ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        }
-      }).then(function(engineInitializer) {
-        return engineInitializer.initializeEngine();
-      }).then(function(appRunner) {
-        return appRunner.runApp();
-      });
-    });
-  </script>
+  <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

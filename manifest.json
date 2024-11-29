@@ -1,6 +1,6 @@
 {
-    "name": "girappe_webpage_pass4wallet",
-    "short_name": "girappe_webpage_pass4wallet",
+    "name": "webpage_pass4wallet",
+    "short_name": "webpage_pass4wallet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fdfdf7",
