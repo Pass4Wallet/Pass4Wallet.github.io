@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "812e84b10161aef4a1be634323f80661",
+const RESOURCES = {"flutter_bootstrap.js": "90c37db2e89fb3bc55fb960cae47f5f2",
 "version.json": "c38baf38f3f52451505e10dbe0e9190e",
 "index.html": "20cf24a0bb8aaf11240b9e899fbaf764",
 "/": "20cf24a0bb8aaf11240b9e899fbaf764",
@@ -19,10 +19,10 @@ const RESOURCES = {"flutter_bootstrap.js": "812e84b10161aef4a1be634323f80661",
 "assets/NOTICES": "624b17d6f52e18e159e9004698d4a5d0",
 "assets/FontManifest.json": "c65ad4ccf60e7a022279b16dd7d2e60d",
 "assets/AssetManifest.bin.json": "0b739346b82f6f1b3bdacb28fa5d805b",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "f1126486ccebd15d203af7169b536fc2",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "6d828f9bd15f40369934fe8d919bd460",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/fonts/MaterialIcons-Regular.otf": "f6492bbd64a333f48300e7a4490db291",
 "assets/assets/images/buttons/appstore-white_pl.png": "532f2397f854bc4f539fb07e0255c314",
 "assets/assets/images/buttons/appstore-white_en.png": "532f2397f854bc4f539fb07e0255c314",
 "assets/assets/images/buttons/buy-me-a-coffee-dark.png": "1a9404c45c895db63db5e139cf23556e",
